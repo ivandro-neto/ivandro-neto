@@ -1,6 +1,8 @@
 ### Hi there 👋
 # Hi, Welcome to my Profile!
 
+<img src="logo_white_background.png" width="150px"/>
+
 ## I'm Ivandro Neto 🙂
 
 Dev
